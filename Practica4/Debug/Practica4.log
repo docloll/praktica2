@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\doclo\source\repos\Practica4\main.c(8,17): warning C4013:  _getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\doclo\source\repos\Practica4\main.c(11,10): warning C4013:  system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\doclo\source\repos\Practica4\main.c(15,8): warning C4013:  exit: нет определения; предполагается "extern" с возвратом типа "int"
+  Practica4.vcxproj -> C:\Users\doclo\source\repos\Practica4\Debug\Practica4.exe
