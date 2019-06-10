@@ -1,0 +1,3 @@
+﻿  task2_f.c
+C:\Users\doclo\source\repos\Practica2\task2_f.c(11,23): warning C4244:  функция: преобразование "double" в "int", возможна потеря данных
+  Practica2.vcxproj -> C:\Users\doclo\source\repos\Practica2\Debug\Practica2.exe
