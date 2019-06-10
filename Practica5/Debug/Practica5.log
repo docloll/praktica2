@@ -1,0 +1,16 @@
+﻿  delete.c
+  find.c
+C:\Users\doclo\source\repos\Practica5\delete.c(9,28): warning C4098:  delete: функция типа "void", возвращающая значение
+  insert.c
+  main.c
+C:\Users\doclo\source\repos\Practica5\find.c(19,14): warning C4090:  return: разные квалификаторы "const"
+C:\Users\doclo\source\repos\Practica5\main.c(13,16): warning C4013:  getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\doclo\source\repos\Practica5\main.c(16,10): warning C4013:  system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\doclo\source\repos\Practica5\main.c(21,11): warning C4477:  "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "char *"
+C:\Users\doclo\source\repos\Practica5\main.c(25,14): warning C4090:  функция: разные квалификаторы "const"
+  strcat.c
+  strcpy.c
+  strlen.c
+  Создание кода...
+C:\Users\doclo\source\repos\Practica5\main.c(50,8): warning C4013:  exit: нет определения; предполагается "extern" с возвратом типа "int"
+  Practica5.vcxproj -> C:\Users\doclo\source\repos\Practica5\Debug\Practica5.exe
